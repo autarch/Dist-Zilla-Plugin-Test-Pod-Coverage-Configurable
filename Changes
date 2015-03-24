@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+- Added an 'also_private' attribute
+
 0.04     2015-02-26
 
 - If you specify a class other than Pod::Coverage::TrustPod as the coverage
