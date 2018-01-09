@@ -1,5 +1,8 @@
 {{$NEXT}}
 
+- Include the plugin version in the header comment
+
+
 0.06     2016-05-08
 
 - The added test is not added in xt/author instead of xt/release.
